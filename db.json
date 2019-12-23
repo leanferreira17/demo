@@ -1,20 +1,11 @@
 {
     "id": 1,
     "name": "Preloaded dataset",
-    "title": null,
-    "pipeline": "[\"1\"]",
-    "created": "2019-12-20T19:33:10.554279Z",
     "data": [
         {
             "timestamp": 1525030390.530792,
             "Sunspot": 58.0,
             "dataset": "real"
         }
-    ],
-    "meta": {
-        "name": "Preloaded dataset",
-        "pipeline": [
-            "1"
-        ]
-    }
+    ]
 }
